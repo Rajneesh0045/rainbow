@@ -6,5 +6,8 @@ Green
 Yellow
 Orange
 Red
+<<<<<<< HEAD
 adding colors is not good now.
+=======
 Unicorn the Horse.
+>>>>>>> unicorn

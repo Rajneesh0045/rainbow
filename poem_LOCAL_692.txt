@@ -1,4 +1,4 @@
-This is a poem about rainbows and Unicorn
+This is a poem about rainbows
 Voilet
 Indigo
 Blue
@@ -7,4 +7,3 @@ Yellow
 Orange
 Red
 adding colors is not good now.
-Unicorn the Horse.
